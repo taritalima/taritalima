@@ -54,7 +54,6 @@ Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho 
 - [LinkedIn](https://www.linkedin.com/in/taritalima/)
 - [Email](mailto:tarita36@hotmail.com)
 
----
 
 ## 📊 GitHub Stats
 
