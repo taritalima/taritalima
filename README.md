@@ -1,16 +1,67 @@
-## Hi there 👋
+# 😁 Olá! Eu sou Tarita
 
-<!--
-**taritalima/taritalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficazes. Aqui você pode conhecer mais sobre minhas habilidades e experiências.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Sobre Mim
+
+- **Nome:** Tarita de Lima Silva
+- **Profissão:** Desenvolvedora Frontend
+
+Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho um grande interesse em aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios e conhecimento mais aprofundado em back-end e frontend.
+
+---
+
+## 🚀 Minhas Habilidades
+
+### Frontend
+
+- **Vue.js**
+- **Nuxt.js**
+- **Tailwind CSS**
+- **React**
+- **TypeScript**
+
+### Backend
+
+- **PHP**
+
+### Outras Tecnologias
+
+- **Git & GitHub**
+- **MySQL**
+
+---
+
+## 💼 Experiência Profissional
+
+### Desenvolvedor Frontend
+
+- **Frameworks:** Vue.js, Nuxt.js, Tailwind CSS, TypeScript
+- Desenvolvi aplicações web interativas e responsivas, focando na melhor experiência do usuário.
+
+### Desenvolvedor Fullstack
+
+- **Tecnologias:** PHP, MySQL
+- Criei e mantive sistemas completos, incluindo tanto a parte do servidor quanto a interface do usuário.
+
+---
+
+## 📫 Conecte-se Comigo
+
+- [Perfil DIO](https://www.dio.me/users/tarita36)
+- [LinkedIn](https://www.linkedin.com/in/taritalima/)
+- [Email](mailto:tarita36@hotmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical)
+
+---
+
+---
