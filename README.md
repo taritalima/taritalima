@@ -26,6 +26,7 @@ Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho 
 ### Backend
 
 - **PHP**
+- **Python**
 
 ### Outras Tecnologias
 
