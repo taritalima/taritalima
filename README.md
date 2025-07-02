@@ -9,7 +9,8 @@ Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora apaixonada por criar solu
 - **Nome:** Tarita de Lima Silva
 - **Profissão:** Desenvolvedora Frontend
 
-Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho um grande interesse em aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios e conhecimento mais aprofundado em back-end e frontend.
+Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios. Atualmente, estou me aprofundando tanto em frontend quanto em backend, com foco em soluções completas e bem estruturadas.
+
 
 ---
 
@@ -22,11 +23,15 @@ Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho 
 - **Tailwind CSS**
 - **React**
 - **TypeScript**
+- **JavaScript**
+- **Next.js**
+
 
 ### Backend
 
+- **Java**
+- **Spring Boot**
 - **PHP**
-- **Python**
 
 ### Outras Tecnologias
 
@@ -37,16 +42,20 @@ Sou uma desenvolvedora frontend com experiência em diversas tecnologias. Tenho 
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Frontend
+### Desenvolvedora Frontend
 
 - **Frameworks:** Vue.js, Nuxt.js, Tailwind CSS, TypeScript
 - Desenvolvi aplicações web interativas e responsivas, focando na melhor experiência do usuário.
 
-### Desenvolvedor Fullstack
+### Desenvolvedora Fullstack
 
 - **Tecnologias:** PHP, MySQL
 - Criei e mantive sistemas completos, incluindo tanto a parte do servidor quanto a interface do usuário.
 
+### Estudo em Java & Spring Boot
+
+- **Tecnologias:** Java, Spring Boot, Maven
+- Em desenvolvimento de projetos de estudo com foco em APIs REST, autenticação com JWT e arquitetura limpa utilizando boas práticas do ecossistema Spring.
 ---
 
 ## 📫 Conecte-se Comigo
