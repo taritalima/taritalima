@@ -73,4 +73,4 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical)
 
 ---
-Obrigado por visitar meu perfil! Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato.
+Obrigada por visitar meu perfil 😊! Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato.
