@@ -69,7 +69,7 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
 ## 📊 GitHub Stats
 
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin:20px">
   <img
     src="https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical"
     alt="GitHub Stats"
