@@ -68,32 +68,20 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin-bottom: 30px;">
+
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical"
     alt="GitHub Stats"
-    width="40%"
+    width="45%"
     style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
-</div>
-
-<div align="center" style="margin-bottom: 30px;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical"
     alt="Top Languages"
-    width="40%"
+    width="45%"
     style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=taritalima&theme=radical"
-    alt=""
-    width="60%"
-    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-  />
-</div>
 </div>
 
 ---
