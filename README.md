@@ -68,9 +68,29 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical)
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    width="48%"
+    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="48%"
+    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+  />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical)
+<div align="center" style="margin-top: 20px;">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=taritalima&theme=radical"
+    alt="GitHub Streak Stats"
+    width="60%"
+    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+  />
+</div>
 
 ---
 Obrigada por visitar meu perfil 😊! Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato.
