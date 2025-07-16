@@ -72,7 +72,7 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
   <img
     src="https://github-readme-stats.vercel.app/api?username=taritalima&show_icons=true&theme=radical"
     alt="GitHub Stats"
-    width="60%"
+    width="40%"
     style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
 </div>
@@ -81,7 +81,7 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=taritalima&layout=compact&theme=radical"
     alt="Top Languages"
-    width="60%"
+    width="40%"
     style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
 </div>
@@ -94,14 +94,6 @@ Tenho grande interesse em aprender novas linguagens e frameworks, e estou sempre
     style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=taritalima&theme=radical"
-    alt="GitHub Streak Stats"
-    width="60%"
-    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-  />
 </div>
 
 ---
